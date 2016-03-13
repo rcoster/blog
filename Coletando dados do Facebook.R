@@ -1,3 +1,6 @@
+# Coletando dados do Facebook
+# http://www.dadosaleatorios.com.br/2016/03/coletando-dados-do-facebook.html
+
 # Graph API Explorer: https://developers.facebook.com/tools/explorer/
 library(jsonlite)
 library(ggplot2)
