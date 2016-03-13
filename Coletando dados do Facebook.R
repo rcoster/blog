@@ -56,7 +56,7 @@ nCurtidas <- function(id, token) {
 dados[, Curtidas := nCurtidas(id, token)] # Demora...
 
 ###
-# Núvem de palavras
+# Nuvem de palavras
 ###
 
 library(wordcloud)
